@@ -1,7 +1,7 @@
 {
  "name": "7.4 — Unified Graphics, Clean Streets & Arcade Driving",
- "web": 202611222124,
- "sha256": "5f082842beafa4e5ef00da1385de0851856cc6faaadf68176b4f7f9f14a48466",
+ "web": 202611222232,
+ "sha256": "736f492f3a4834eb110d8ad53bcdc962b713148b05aef8b9c794e59eeb1b7cd0",
  "minNative": 2,
  "apk": 0,
  "apkCode": 9,
@@ -12,6 +12,6 @@
  "apkFile": "DurubSyria.apk",
  "webSize": 86486150,
  "apkSize": 50557846,
- "apkSha256": "6fd4d5a6e2ecb2eb025e17d3b0dfc9949a98dad1e33fdb3ac978d12060311c88",
- "date": "2026-11-22T21:35:08.750Z"
+ "apkSha256": "7c788e8e77aedf0c51f3ec6af5631acfe7aa7a841b8e118d3bd2d8451e6c127e",
+ "date": "2026-11-22T22:42:04.444Z"
 }
